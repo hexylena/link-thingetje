@@ -42,6 +42,13 @@ categories:
     - name: Lazy Librarian
       url: "http://quark:5299"
 
+  - name: Reading
+    links:
+    - name: FreshRSS
+      url: "http://quark:8282"
+    - name: Omnivore
+      url: "http://quark:4001"
+
   - name: 3D Printer
     links:
     - name: Octoprint
