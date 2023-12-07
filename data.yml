@@ -46,8 +46,8 @@ categories:
     links:
     - name: FreshRSS
       url: "http://quark:8282"
-    - name: Omnivore
-      url: "http://quark:4001"
+    - name: Wallabag
+      url: "http://quark:8383"
 
   - name: 3D Printer
     links:
