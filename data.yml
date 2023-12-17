@@ -3,7 +3,7 @@ categories:
   - name: TV & Movies
     links:
     - name: Jellyfin
-      url: "http://quark:8096"
+      url: https://jellyfin.home.galaxians.org
     - name: Plex
       url: "http://quark:32400/web"
     - name: Movie Club DB
@@ -12,11 +12,11 @@ categories:
   - name: Downloading
     links:
     - name: Sonarr (TV)
-      url: "http://quark:8989"
+      url: https://sonarr.home.galaxians.org
     - name: Radarr (Movies)
-      url: "http://quark:7878"
+      url: https://radarr.home.galaxians.org
     - name: BAZARR (Subs)
-      url: "http://quark:6767"
+      url: https://bazarr.home.galaxians.org
     - name: Movie/TV Downloads
       url: "http://quark:8080"
     - name: Transmission
@@ -66,7 +66,7 @@ categories:
   - name: Home
     links:
     - name: Home Assistant
-      url: "http://quark:8123"
+      url: https://hass.home.galaxians.org
     - name: TailScale
       url: "https://login.tailscale.com/admin"
     - name: Z-wave JS UI
